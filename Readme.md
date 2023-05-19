@@ -6,10 +6,14 @@ Detect Emotions es una aplicacion mobile, hecha con kivy  y python,
 
 Clonate la rama:
 
-> git clone https://github.com/anarkopin/detect-emotions.git
+> git clone [https://github.com/anarkopin/detect-emotions.git](https://github.com/anarkopin/Detect-emotions-kivy.git)
 
-> Instala las dependencias: npm i
+> Genera tu entorno virtual: python -m venv env
 
-> npx expo start 
+> Activa tu entorno 
+
+> pip install -r requirements.txt
+
+> python main.py
 
 
